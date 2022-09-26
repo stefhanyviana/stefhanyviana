@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @stefhanyviana
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 stefhanyviana/stefhanyviana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
